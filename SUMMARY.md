@@ -32,4 +32,5 @@
   * [Typography](developer-portal/typography.md)
   * [Upgrade to a different version](developer-portal/upgrade.md)
   * [awesome](developer-portal/awesome/README.md)
+    * [Test openapi](developer-portal/awesome/test-openapi.md)
     * [Folder structure training](developer-portal/awesome/folders.md)
