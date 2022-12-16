@@ -2,9 +2,7 @@
 
 Whether you utilize Google Analytics, Google Tag Manager, Heap.io or something else, it can be enabled with a few lines of configuration in the `siteConfig.yaml`.
 
-:::attention
-Analytics is disabled in development server mode. So enabling will have no impact until built and deployed.
-:::
+:::attention Analytics is disabled in development server mode. So enabling will have no impact until built and deployed. :::
 
 ## Google Analytics
 
@@ -18,11 +16,9 @@ analytics:
     trackingId: UA-132456789-1
 ```
 
-## Other JavaScript add-ons
+## Other JavaScript add-ons!!!!
 
-If we needed to enable some other JavaScript, we can do that too.
-Here is an example of enabling the Intercom chat widget.
-You would replace the part that says `your-code` with your intercom id.
+If we needed to enable some other JavaScript, we can do that too. Here is an example of enabling the Intercom chat widget. You would replace the part that says `your-code` with your intercom id.
 
 ```yaml
 scripts:
